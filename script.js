@@ -1,6 +1,3 @@
-
-
-
 var nameList=[];
 var amountOf=0;
 var text=document.getElementById('text');
@@ -19,31 +16,3 @@ if(!amount<3){
         text2.innerHTML=nameList.reverse();
     };
 };
-
-
-
-// "woord in array zetten, elk letter van woordje in array, als ingevoerde letter niet op juiste plaats staat dan gaat door array  heen kijken, iets break"
-
-// ".value"
-
-
-// var btn = document.getElementById('btn');
-// var names = ["dylano", "pietje", "janhenk", "achmet"];
-// var names2 = document.getElementById('txtInput');
-
-// btn.onclick = searchName;
-
-// function searchName() {
-//     var person = names2.value;
-//     var place = names.indexOf(person);
-//     document.write
-// };
-
-
-
-
-
-
-
-
-
